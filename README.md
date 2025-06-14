@@ -2,7 +2,7 @@
 - 👀 I'm looking for ways to expand my circle 
 - 🌱 I'm learning how to survive meaningfully
 - 💪 (^+C & ^+V)
-- 💞️ Complex integrations
+- 💞️ Complex integrations, Service oriented design and measurable business outcome
 - 💼  Building planet scale products @ Google 
 <!---
 Mayur3sh/Mayur3sh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
